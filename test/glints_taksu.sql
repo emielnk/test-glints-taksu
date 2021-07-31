@@ -1,0 +1,1 @@
+SELECT * FROM glints_taksu.order_model;
